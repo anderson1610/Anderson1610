@@ -1,6 +1,6 @@
 ### Oi! Sou Anderson Camargo <img align="center" alt="Anderson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-- 🔭 Hoje estou trabalhando como analista de suporte
+- 🔭 Hoje estou trabalhando como analista
 - 🌱 Estudando Python
 - 📫 Contate-me no email: anderson101214@hotmail.com
 
